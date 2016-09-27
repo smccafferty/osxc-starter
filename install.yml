@@ -1,19 +1,67 @@
 ---
-# Here we describe every software we may want to install
 - hosts: all
   roles:
   - role: osxc.packages
     brew_taps:
     - caskroom/fonts
+    - caskroom/versions
     brew_packages:
-    - git
-    - zsh
-    - vim
-    - the_silver_searcher
+    - bash
+    - bash-completion
+    - coreutils
     - ctags
-    - reattach-to-user-namespace
+    - findutils
+    - git
+    - git-crypt
+    - gpg
+    - lesspipe
+    - mackup
+    - node
+    - rbenv
+    - ruby-build
+    - ssh-copy-id
+    - svn
+    - the_silver_searcher
     - tmux
+    - tree
+    - vim
+    - watch
+    - wget
+    - zsh
     cask_packages:
-    - font-inconsolata-for-powerline
+    - airfoil
+    - alfred2
+    - betterzipql
+    - caffeine
+    - cloudup
+    - cyberduck
+    - disk-inventory-x
+    - divvy
+    - dropbox
+    - firefox
+    - google-chrome
+    - google-hangouts
     - iterm2
-    - macvim
+    - karabiner
+    - mailplane
+    - qlimagesize
+    - qlmarkdown
+    - qlprettypatch
+    - rowanj-gitx
+    - resilio-sync
+    - sequel-pro
+    - skype
+    - slack
+    - spotify
+    - steam
+    - sublime-text3
+    - suspicious-package
+    - taskpaper
+    - textmate
+    - transmit
+    - unified-remote
+    - vagrant
+    - versions
+    - virtualbox
+    - vlc
+    - vmware-fusion
