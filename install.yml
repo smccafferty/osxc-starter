@@ -31,19 +31,33 @@
     cask_packages:
     - airfoil
     - alfred2
+    - android-file-transfer
+    - android-studio
+    - battle-net
+    - bettertouchtool
     - betterzipql
     - caffeine
+    - chrome-remote-desktop-host
+    - coccinellida
     - cloudup
     - cyberduck
+    - discord
     - disk-inventory-x
     - divvy
     - dropbox
     - firefox
     - google-chrome
     - google-hangouts
+    - hyperdock
     - iterm2
     - karabiner
     - mailplane
+    - mou
+    - mumble
+    - origin
+    - plex-home-theater
+    - poedit
+    - private-internet-access
     - qlimagesize
     - qlmarkdown
     - qlprettypatch
@@ -56,6 +70,7 @@
     - steam
     - sublime-text3
     - suspicious-package
+    - synergy
     - taskpaper
     - textmate
     - transmit
@@ -65,3 +80,4 @@
     - virtualbox
     - vlc
     - vmware-fusion
+    - xtrafinder
