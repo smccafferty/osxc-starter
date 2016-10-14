@@ -29,14 +29,13 @@
     - wget
     - zsh
     cask_packages:
-    - airfoil
+    - airfoil # not working
     - alfred2
     - android-file-transfer
     - android-studio
     - battle-net
     - bettertouchtool
     - betterzipql
-    - caffeine
     - chrome-remote-desktop-host
     - coccinellida
     - cloudup
@@ -50,6 +49,7 @@
     - google-hangouts
     - hyperdock
     - iterm2
+    - java
     - karabiner
     - mailplane
     - mou
@@ -68,7 +68,7 @@
     - slack
     - spotify
     - steam
-    - sublime-text3
+    - sublime-text
     - suspicious-package
     - synergy
     - taskpaper
