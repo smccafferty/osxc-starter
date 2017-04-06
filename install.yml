@@ -30,6 +30,8 @@
     - zsh
     - homebrew/php/composer
     cask_packages:
+    - 1password
+    - atext
     - airfoil # not working
     - alfred2
     - android-file-transfer
