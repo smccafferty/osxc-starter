@@ -28,6 +28,7 @@
     - watch
     - wget
     - zsh
+    - homebrew/php/composer
     cask_packages:
     - airfoil # not working
     - alfred2
