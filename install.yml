@@ -51,6 +51,7 @@
     - google-chrome
     - google-hangouts
     - hyperdock
+    - intel-power-gadget
     - iterm2
     - java
     - karabiner
@@ -66,6 +67,7 @@
     - qlprettypatch
     - rowanj-gitx
     - resilio-sync
+    - ring
     - sequel-pro
     - skype
     - slack
