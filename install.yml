@@ -32,16 +32,15 @@
     cask_packages:
     - 1password
     - atext
-    - airfoil # not working
-    - alfred2
+    - alfred
     - android-file-transfer
     - android-studio
     - battle-net
     - bettertouchtool
     - betterzipql
+    - boostnote
     - chrome-remote-desktop-host
     - coccinellida
-    - cloudup
     - cyberduck
     - discord
     - disk-inventory-x
@@ -76,7 +75,6 @@
     - sublime-text
     - suspicious-package
     - synergy
-    - taskpaper
     - textmate
     - transmit
     - unified-remote
@@ -84,5 +82,5 @@
     - versions
     - virtualbox
     - vlc
+    - visual-studio-code
     - vmware-fusion
-    - xtrafinder
